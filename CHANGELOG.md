@@ -1,4 +1,4 @@
-## CHANGELOG for Wale's pw generator
+## CHANGELOG for pw generator
 This file is used to list changes made in each version of the pw generator 
 
 ## 0.1 
