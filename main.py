@@ -1,8 +1,9 @@
+
 # Password Generator
 import random
 import string 
 
-print('@@@@@@@@@@ Welcome to wahlae's password generator @@@@@@@@@@')
+print("@@@@@@@@@@ eezuser1002's password generator @@@@@@@@@@ ")
 
 # request user data
 length = int(input('\nEnter the length of password, we recommend 8 chars or more: '))
